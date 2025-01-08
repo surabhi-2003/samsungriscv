@@ -1,2 +1,2 @@
 # samsungriscv
-This is for samsungriscv 
+work on RISCV
